@@ -4,7 +4,7 @@ permalink: "/"
 layout: page
 ---
 
-## Montegut Sycamore is a community garden located on three lots at the intersection of Montegut and Prieur in the Upper Ninth Ward of New Orleans.
+## Montegut Sycamore is a community garden located at the intersection of Montegut and Prieur in the Upper Ninth Ward of New Orleans.
 
 ![](/uploads/MontegutSycamore.jpg)
 The garden is a work in progress, with the ultimate goal of producing free produce for neighbors.
