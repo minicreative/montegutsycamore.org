@@ -1,6 +1,10 @@
 
 // On Page Load
 $(document).ready(function() {
+    $("#justified-gallery").justifiedGallery({
+        rowHeight: 180,
+        margins: 10,
+    });
 })
 
 // On Stricter Page Load

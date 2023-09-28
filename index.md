@@ -2,11 +2,15 @@
 title: Home
 permalink: "/"
 layout: page
+intro: Montegut Sycamore is a community garden / land project located at the intersection of Montegut and Prieur in the Upper Ninth Ward of New Orleans.
+images:
+- "uploads/Winter2023.jpg"
+- "uploads/CoverCrops.jpg"
+- "uploads/Spring2023-1.jpg"
+- "uploads/Spring2023-2.jpg"
+- "uploads/Spring2023-3.jpg"
+- "uploads/Summer2023.jpg"
 ---
-
-## Montegut Sycamore is a community garden / land project located at the intersection of Montegut and Prieur in the Upper Ninth Ward of New Orleans.
-
-![](/uploads/MontegutSycamore.jpg)
 
 ### Mission
 - To produce and share as much food as possible
@@ -16,13 +20,13 @@ layout: page
 
 ### What's Growing
 
-I planted these seedlings in early March: **cherry tomatoes, creole tomatoes, green bell peppers, purple bell peppers, habenero peppers and shishito peppers** from [Hot Plants](https://www.hotplantsnursery.com/); **roma tomatoes, okra, cucumbers, summer squash, and herbs (cilantro, parsley, basil)** from [Harold's Plants](https://www.haroldsplants.com/).
+All excess produce (everything my neighbors and I aren't eating) is taken to [St. Roch Metalworks](https://www.google.com/maps/place/St.+Roch+Metal+Works/@29.9844956,-90.0529212,15z/data=!4m2!3m1!1s0x0:0x86258470925b3fa4?sa=X&ved=2ahUKEwjGh9rgs86BAxXORDABHcTaAG0Q_BJ6BAhDEAA&ved=2ahUKEwjGh9rgs86BAxXORDABHcTaAG0Q_BJ6BAhNEAg) food distro which happens every Sunday at 4pm.
 
-I planted these seeds in early March: **kale, collards, carrots, turnips, spinach, arugula, cabbage, chard, romaine lettuce and potatoes**. Most seeds were sourced from the Mini Seed Library at [1811 Louisa St](https://goo.gl/maps/oLDdyWYPLALtQKjf7)
+Summer 2023 crops: **okra (multiple varities), eggplant (multiple varieties), habeneros, jalepenos, and basil,** sourced primarily from free seedlings and seeds that ended up at Anna Timmerman's. I also grew, cured and processed about 7 ounces of [perique tabacco](https://en.wikipedia.org/wiki/Perique).
 
-My fall garden died during the freeze at Christmas. In mid-January, I planted some cover crops (rye and mustard) I got for free (thanks!) from [Sprout NOLA](https://www.sproutnolafarm.org/)'s Cover Crop session. I tilled these into the soil in early March, along with compost from [Schmelly's Dirt Farm](https://www.schmellys.com/).
+Spring 2023 crops: **cherry tomatoes, creole tomatoes, green bell peppers, purple bell peppers, habenero peppers and shishito peppers** from [Hot Plants](https://www.hotplantsnursery.com/); **roma tomatoes, okra, cucumbers, summer squash, and herbs (cilantro, parsley, basil)** from [Harold's Plants](https://www.haroldsplants.com/), **kale, chard, collards, arugula, cucumbers, squash, bush beans and basil** started from seeds found at Anna Timmerman's Mini Seed Library at [1811 Louisa St](https://goo.gl/maps/oLDdyWYPLALtQKjf7)
 
-No plants are currently producing food! Check back in April.
+My Fall 2022 garden died during the freeze at Christmas. In mid-January, I planted cover crop seed (rye and mustard) I got for free (thanks!) from [Sprout NOLA](https://www.sproutnolafarm.org/)'s Cover Crop session. I tilled these into the soil in early March, along with compost from [Schmelly's Dirt Farm](https://www.schmellys.com/).
 
 ### Get Involved
 
