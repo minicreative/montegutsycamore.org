@@ -22,7 +22,9 @@ images:
 
 All excess produce (everything my neighbors and I aren't eating) is taken to [St. Roch Metalworks](https://www.google.com/maps/place/St.+Roch+Metal+Works/@29.9844956,-90.0529212,15z/data=!4m2!3m1!1s0x0:0x86258470925b3fa4?sa=X&ved=2ahUKEwjGh9rgs86BAxXORDABHcTaAG0Q_BJ6BAhDEAA&ved=2ahUKEwjGh9rgs86BAxXORDABHcTaAG0Q_BJ6BAhNEAg) food distro which happens every Sunday at 4pm.
 
-Summer 2023 crops: **okra (multiple varities), eggplant (multiple varieties), habeneros, jalepenos, and basil,** sourced primarily from free seedlings and seeds that ended up at Anna Timmerman's. I also grew, cured and processed about 7 ounces of [perique tabacco](https://en.wikipedia.org/wiki/Perique).
+Fall 2023 crops: a few **cabbage and collard** plants that I started in trays at the end of the summer, lots of **pac choi, chard, kale, kholrabi and mustard green** starts from my friend Anwyn, and **carrots, radishes, arugula, green onions, mustard, kale and cilantro** seeded November 9 with seeds from Anna Timmerman's. Half of my production lot has been cover cropped with clover and rye since October 1.
+
+Summer 2023 crops: **okra (multiple varities), eggplant (multiple varieties), habeneros, jalepenos, and basil,** sourced primarily from free seedlings and seeds found at Anna Timmerman's. I also grew, cured and processed about 7 ounces of [perique tabacco](https://en.wikipedia.org/wiki/Perique).
 
 Spring 2023 crops: **cherry tomatoes, creole tomatoes, green bell peppers, purple bell peppers, habenero peppers and shishito peppers** from [Hot Plants](https://www.hotplantsnursery.com/); **roma tomatoes, okra, cucumbers, summer squash, and herbs (cilantro, parsley, basil)** from [Harold's Plants](https://www.haroldsplants.com/), **kale, chard, collards, arugula, cucumbers, squash, bush beans and basil** started from seeds found at Anna Timmerman's Mini Seed Library at [1811 Louisa St](https://goo.gl/maps/oLDdyWYPLALtQKjf7)
 
