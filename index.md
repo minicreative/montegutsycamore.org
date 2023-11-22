@@ -38,6 +38,6 @@ My Fall 2022 garden died during the freeze at Christmas. In mid-January, I plant
 
 ### About
 
-My name's Tomas Roy. I've been living on Montegut Street since August 2021 when I took a job with Habitat for Humanity building affordable houses in the Ninth Ward, which is still my day job. I've been dreaming about the idea of caring for a small piece of land since I was a kid, and I'm overjoyed to be able to do it in my favorite city on earth. I'm excited about staying in one place, watching the seasons change and the trees grow.
+My name's Tomas Roy. I've been living on Montegut Street since August 2021 when I took a job with Habitat for Humanity building affordable houses in the Ninth Ward. I've been dreaming about the idea of caring for a small piece of land since I was a kid, and I'm overjoyed to be able to do it in my favorite city on earth. I'm excited about staying in one place, watching the seasons change and the trees grow.
 
 I'd love to hear from you! Shoot me an email at [tomasroy7@gmail.com](mailto:tomasroy7@gmail.com)
