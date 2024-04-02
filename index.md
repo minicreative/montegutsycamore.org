@@ -26,6 +26,8 @@ images:
   caption: Winter 2022
 - url: "uploads/Winter2022.jpg"
   caption: Winter 2022
+- url: "uploads/Before.jpg"
+  caption: January 2021
 
 ---
 
