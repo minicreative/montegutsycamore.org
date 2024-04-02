@@ -3,8 +3,10 @@
     <div class="container">
         <h2>{{ page.intro }}</h2>
         <div class="gallery" id="justified-gallery">
-            {% for url in page.images %}
-                <a href="{{ url }}" data-lightbox="gallery"><img src="{{ url }}" /></a>
+            {% for image in page.images %}
+                <a href="{{ image.url }}" data-lightbox="gallery" data-title="{{ image.caption }}">
+                    <img src="{{ image.url }}" alt="{{ image.caption }}"/>
+                </a>
             {% endfor %}
         </div>
         <div class="content">{{ page.content | markdownify }}</div>
