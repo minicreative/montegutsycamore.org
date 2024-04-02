@@ -5,7 +5,7 @@ layout: page
 intro: Montegut Sycamore Mutual Aid Farm is a community garden located at the intersection of Montegut and Prieur in the Upper Ninth Ward of New Orleans.
 images:
 - url: "uploads/Spring2024.jpg"
-  caption: Spring 2024
+  caption: Spring 2024 (April 1)
 - url: "uploads/Winter2023.jpg"
   caption: Winter 2023
 # - url: "uploads/WorkDay.jpg"
@@ -43,7 +43,7 @@ Spring 2024: In mid-March I planted **three varieties of beans, arugula, turnips
 
 Winter 2023: Thanks to folks who came out for the work day on December 9th, 1841 Montegut is on its way to better soil health - we removed 20+ wheelbarrows of debris from a 70' by 20' plot. I planted a mixture of clovers here as a [cover crop](https://www.usda.gov/peoples-garden/soil-health/cover-crops-crop-rotation). On 1835 Montegut, I planted **carrots, cilantro, mustard greens and arugula** from seed and continued harvesting the pac choi and chard through the freeze in January. In February I planted **romenesco cauliflower, cauliflower, cabbage, cutting celery, kale and kailan** from [Hot Plants](https://www.hotplantsnursery.com/).
 
-Fall 2023: I planted a few **cabbage and collard** plants that I started in trays at the end of the summer, lots of **pac choi, chard, kale, kholrabi and mustard green** starts from my friend Anwyn, and **carrots, radishes, arugula, green onions, mustard, kale and cilantro** seeded November 9. The front half of 1835 Montegut has been cover cropped with clover and rye since October 1.
+Fall 2023: I planted a few **cabbage and collard** plants that I started in trays at the end of the summer, lots of **pac choi, chard, kale, kholrabi and mustard green** starts from my friend Anwyn, and **carrots, radishes, arugula, mustard, and cilantro** seeded November 9. The front half of 1835 Montegut has been cover cropped with clover and rye since October 1.
 
 Summer 2023: I planted **okra (multiple varities), eggplant (multiple varieties), habeneros, jalepenos, and basil,** sourced primarily from free seedlings and seeds found at Anna Timmerman's Mini Seed Library at [1811 Louisa St](https://goo.gl/maps/oLDdyWYPLALtQKjf7). I also grew, cured and processed about 7 ounces of [perique tabacco](https://en.wikipedia.org/wiki/Perique).
 
