@@ -2,7 +2,7 @@
 title: Home
 permalink: "/"
 layout: page
-intro: Montegut Sycamore Mutual Aid Farm is a community garden located at the intersection of Montegut and Prieur in the Upper Ninth Ward of New Orleans.
+intro: Montegut Sycamore Mutual Aid Farm is a production-oriented community garden located at the intersection of Montegut and Prieur in New Orleans' 9th Ward.
 images:
 - url: "uploads/Winter2024-12-1.jpg"
   caption: Winter 2024 (December 1)
@@ -55,11 +55,19 @@ images:
 - To create a space for people to learn about and eat food together
 - To build healthy soil
 
+All excess produce (everything my neighbors and I aren't eating) is currently taken to the NOMAG Food Bank distribution which happens every Sunday at 4pm at [St. Roch Metalworks](https://www.google.com/maps/place/St.+Roch+Metal+Works/@29.9844956,-90.0529212,15z/data=!4m2!3m1!1s0x0:0x86258470925b3fa4?sa=X&ved=2ahUKEwjGh9rgs86BAxXORDABHcTaAG0Q_BJ6BAhDEAA&ved=2ahUKEwjGh9rgs86BAxXORDABHcTaAG0Q_BJ6BAhNEAg). My hope is to build a community fridge and farm stand at the front of 1841 Montegut Stret.
+
+### Get Involved
+
+**Eat vegetables.** A free vegetable fridge and distribution system is coming soon! Stay tuned.
+
+**Volunteer.** A bi-weekly workday is coming soon. Ongoing tasks include bed preparation, planting, weeding and harvesting. Check out a list of larger upcoming projects [here](https://tomasroy.notion.site/Montegut-Sycamore-projects-log-35b38e16fefa4edbab81669d1cc5d579). If you're intersted in volunteering, please sign up for our [Volunteering Listserv](https://groups.google.com/g/montegut-sycamore-volunteering/about).
+
+**Bring your compost.** The compost bin is visible at the back of 1833 Montegut St.
+
 ### What's Growing / Farm Notes
 
-All excess produce (everything my neighbors and I aren't eating) is taken to [St. Roch Metalworks](https://www.google.com/maps/place/St.+Roch+Metal+Works/@29.9844956,-90.0529212,15z/data=!4m2!3m1!1s0x0:0x86258470925b3fa4?sa=X&ved=2ahUKEwjGh9rgs86BAxXORDABHcTaAG0Q_BJ6BAhDEAA&ved=2ahUKEwjGh9rgs86BAxXORDABHcTaAG0Q_BJ6BAhNEAg) food distro which happens every Sunday at 4pm.
-
-Winter 2024: In early October I pulled all the okra and basil but left the eggplants as they were still producing. The Tabasco plant has become a bush. I planted **broccoli, collard and cabbage** starts from a Sprout NOLA plant giveaway in early November. A pack of pitbull puppies has been disturbing the garden reguarly, and many of the cabbage plants have been eaten up by bugs. In late November I pulled the eggplant and prepped rows, and in early December I seeded more **turnips, radishes, carrots, argula and snow peas**.
+Winter 2024: In early October I pulled all the okra and basil but left the eggplants as they were still producing. The Tabasco plant has become a bush. I planted **broccoli, collard and cabbage** starts from a Sprout NOLA plant giveaway in early November. A pack of pitbull puppies has been disturbing the garden reguarly, and many of the cabbage plants have been eaten up by bugs. In late November I pulled the eggplant and prepped rows, and in early December I seeded more **turnips, radishes, carrots, argula and snow peas**. I also started trays of **collards, chard and cilantro**.
 
 Fall 2024: In late July I started fall-season trays of **cherry tomaotes, bell peppers, cabbage, chard, cucumbers, squash and zucchini**. I left the okra, eggplant, basil and watermelon growing in the front, and formed beds in the back of 1835 Montegut after our first real rain in over a month, during the last week of August. I planted all my starts in early September. The chard was immediately eaten up by bugs. The cucumbers plants struggled and the squash and zuchinni, despite my best efforts at spraying [BT](https://en.wikipedia.org/wiki/Bacillus_thuringiensis), all got eviscerated by the [squash vine borer](https://en.wikipedia.org/wiki/Squash_vine_borer) for the 5th season in a row - I think it's time to either quit trying or find a resistant variety. Shortly after I put my starts in, I planted **turnips, radishes, carrots, beets and arugula**. I also started new trays of **cabbage, kale, and chard**. The radishes did well, the turnips were too densely planted and produced large greens but small roots. The beets didn't germinate consistently. The argula did well for a while but then started to bolt early. The cherry tomato plants grew very large, despite semi-regular pruning, but didn't ripen until late November. In early December I've picked a quart of tomatoes every 2-3 days. The bell peppers are producing, but most fruit is small and misshappen. This fall was my first season fertilizing with chicken manure.
 
@@ -77,16 +85,8 @@ Spring 2023: I planted **cherry tomatoes, creole tomatoes, green bell peppers, p
 
 My Fall 2022 garden died during the freeze at Christmas. In mid-January, I planted cover crop seed (rye and mustard) I got for free (thanks!) from [Sprout NOLA](https://www.sproutnolafarm.org/)'s Cover Crop session. I tilled these into the soil in early March, along with compost from [Schmelly's Dirt Farm](https://www.schmellys.com/).
 
-### Get Involved
-
-**Eat vegetables.** A free vegetable fridge is coming soon! Stay tuned.
-
-**Volunteer on Saturdays.** Check out a list of upcoming projects [here](https://tomasroy.notion.site/Montegut-Sycamore-projects-log-35b38e16fefa4edbab81669d1cc5d579).
-
-**Bring your compost.** The compost bin is visible at the back of 1833 Montegut St.
-
 ### About
 
 My name's Tomas Roy. I've been living on Montegut Street since August 2021 when I took a job with Habitat for Humanity building affordable houses in the Ninth Ward. I've been dreaming about the idea of caring for a small piece of land since I was a kid, and I'm overjoyed to be able to do it in my favorite city on earth. I'm excited about staying in one place, watching the seasons change and the trees grow.
 
-I'd love to hear from you! Shoot me an email at [tomasroy7@gmail.com](mailto:tomasroy7@gmail.com)
+I'd love to hear from you! Shoot me an email at [hello@montegutsycamore.org](mailto:hello@montegutsycamore.org)
