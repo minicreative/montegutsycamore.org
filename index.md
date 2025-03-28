@@ -4,6 +4,8 @@ permalink: "/"
 layout: page
 intro: Montegut Sycamore Mutual Aid Farm is a production-oriented community garden located at the intersection of Montegut and Prieur in New Orleans' 9th Ward.
 images:
+- url: "uploads/Spring2025-3-25.jpg"
+  caption: Spring 2025 (March 25)
 - url: "uploads/Winter2024-2-11.jpg"
   caption: Winter 2024 (February 11, '25)
 - url: "uploads/Winter2024-12-1.jpg"
@@ -69,7 +71,7 @@ All excess produce (everything my neighbors and I aren't eating) is currently ta
 
 ### What's Growing / Farm Notes
 
-Spring 2024: On February 22, I started trays for my Spring garden: **poblano, jalepeno and banana pappers, cucumbers, cherry tomatoes, basil, pak choi, brussell sprouts, dill, oregano, cutting celery and passionfruit**. The passionfruit seeds were saved from some fruits a neighbor gave in earlier in the year. At the beginning of the season, the front of 1835 was almost completely in production and the back was cover-cropped.
+Spring 2025: On February 22, I started trays for my Spring garden: **poblano, jalepeno and banana pappers, cucumbers, cherry tomatoes, basil, pak choi, brussell sprouts, dill, oregano, cutting celery and passionfruit**. The passionfruit seeds were saved from some fruits a neighbor gave in earlier in the year. At the beginning of the season, the front of 1835 was almost completely in production and the back was cover-cropped. My neighbor Dave planted 20 **cassava** clippings at the front of 1841 in mid-March. On March 23, I removed the tarp from 1841 ahead of a rainstorm and sowed a cover-crop mixture of oats, peas, clover and buckwheat. On March 25, I started two trays with a new soil-blocker (removes the need for plastic pots) for an early round of summer crops: **okra, eggplant, shishito peppers and basil**.
 
 Winter 2024: In early October I pulled all the okra and basil but left the eggplants as they were still producing. I planted **broccoli, collards and red cabbage** starts from a Sprout NOLA plant giveaway in early November, and in mid-November I planted several my own **cabbage, chard and kale** starts from the fall. A pack of pitbull puppies has been disturbing the garden reguarly, and several of the cabbage plants have been impacted by bugs. In late November I pulled the eggplant and prepped rows, and in early December I seeded more **turnips, radishes, carrots, arugula and snow peas**. The radishes, arugula, and snow peas mostly germinated, but the carrots and most of the turnips did not. In early December I also started trays of **collards, chard, kale and lettuce**. We had several instances of frost this season, including 10 inches of snow on January 21. The snow knocked out the cauliflower but didn't harm the other brassicas (collards, broccoli, cabbage). On January 29, I planted all my starts in the front of 1835 and prepped and seeded the back half of 1835 with a cover crop mixture of oats, clover and field peas. My friend Anwyn also dropped off additional starts: **purple kale, spinach, chard and fennel**. By mid-March the garden has reached its most fertile state at this time of year thus far. However, the collards have begun to be largely impacted by downy mildew (lots of yellow spots) - just as it started consistently heating up.
 
