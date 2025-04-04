@@ -59,13 +59,13 @@ images:
 - To create a space for people to learn about and eat food together
 - To build healthy soil
 
-All excess produce (everything my neighbors and I aren't eating) is currently taken to the NOMAG Food Bank distribution which happens every Sunday at 4pm at [St. Roch Metalworks](https://www.google.com/maps/place/St.+Roch+Metal+Works/@29.9844956,-90.0529212,15z/data=!4m2!3m1!1s0x0:0x86258470925b3fa4?sa=X&ved=2ahUKEwjGh9rgs86BAxXORDABHcTaAG0Q_BJ6BAhDEAA&ved=2ahUKEwjGh9rgs86BAxXORDABHcTaAG0Q_BJ6BAhNEAg). My hope is to build a community fridge and farm stand at the front of 1841 Montegut Stret.
+All excess produce (everything my immediate neighbors and I aren't eating) is currently distributed to several families who live close to the farm. My hope is to set up a formal distribution system and build a community fridge and farm stand at the front of 1841 Montegut Stret.
 
 ### Get Involved
 
 **Eat vegetables.** A free vegetable fridge and distribution system is coming soon (late Spring 2025). My intention is to prioritize feeding folks who live near the farm and folks who come to volunteer. Stay tuned for updates!
 
-**Volunteer.** A bi-weekly workday is coming soon. Ongoing tasks include bed preparation, planting, weeding and harvesting. Check out a list of larger upcoming projects [here](https://tomasroy.notion.site/Montegut-Sycamore-projects-log-35b38e16fefa4edbab81669d1cc5d579). If you're intersted in volunteering, please sign up for our [volunteering updates](https://forms.gle/mdxgoZiBtzEYndTW6).
+**Volunteer.** A monthly workday is hosted the first week of each month, alternating between Tuesday and Saturday mornings. Ongoing tasks include bed preparation, planting, weeding and harvesting. Check out a list of larger upcoming projects [here](https://tomasroy.notion.site/Montegut-Sycamore-projects-log-35b38e16fefa4edbab81669d1cc5d579). If you're intersted in volunteering, please sign up for our [volunteering updates](https://forms.gle/mdxgoZiBtzEYndTW6).
 
 **Bring your compost.** The compost bin is visible at the back of 1833 Montegut St.
 
