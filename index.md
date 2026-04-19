@@ -4,10 +4,32 @@ permalink: "/"
 layout: page
 intro: Montegut Sycamore Mutual Aid Farm is a production-oriented community garden located at the intersection of Montegut and Prieur in New Orleans' 9th Ward.
 images:
+- url: "uploads/4-26.jpg"
+  caption: Spring 2026 (April)
+- url: "uploads/4-26-1.jpg"
+  caption: Spring 2026 (April)
+- url: "uploads/3-26.jpg"
+  caption: Spring 2026 (March)
+- url: "uploads/3-26-1.jpg"
+  caption: Spring 2026 (March)
+- url: "uploads/10-25-2.jpg"
+  caption: Fall 2025 (October)
+- url: "uploads/10-25-1.jpg"
+  caption: Fall 2025 (October)
+- url: "uploads/10-25.jpg"
+  caption: Fall 2025 (October)
+- url: "uploads/9-25.jpg"
+  caption: Summer 2025 (September)
+- url: "uploads/7-25.jpg"
+  caption: Summer 2025 (July)
+- url: "uploads/6-25.jpg"
+  caption: Summer 2025 (June)
 - url: "uploads/Spring2025-3-25.jpg"
   caption: Spring 2025 (March 25)
 - url: "uploads/Winter2024-2-11.jpg"
   caption: Winter 2024 (February 11, '25)
+- url: "uploads/1-25.jpg"
+  caption: Winter 2024 (January, '25)
 - url: "uploads/Winter2024-12-1.jpg"
   caption: Winter 2024 (December 1)
 - url: "uploads/Fall2024-9-23.jpg"
@@ -56,10 +78,13 @@ images:
 ### Mission
 - To produce and share as much food as possible
 - To build and share knowledge about growing vegetables in the New Orleans climate
-- To create a space for people to learn about and eat food together
 - To build healthy soil
 
-All excess produce (everything my immediate neighbors and I aren't eating) is currently harvested by [Community Kitchen](https://www.instagram.com/communitykitchennola/) and distributed to several families who live close to the farm. My hope is to set up a formal distribution system and build a community fridge and farm stand at the front of 1841 Montegut Stret.
+Montegut Sycamore grows food in full collaboration (we share space, resources, capacity and vision) with our neighbors, [Land Back Gardens](https://www.instagram.com/landbackgardens), located immediately next door.
+
+Produce is currently harvested by [Community Kitchen](https://www.instagram.com/communitykitchennola/) one day each week, and is also distributed to several folks who live close to the farm. We're working on setting up a formal distribution system and building an accessible farm stand with a community fridge.
+
+Our vegetables are grown using the principles of ["no-till" farming](https://en.wikipedia.org/wiki/No-till_farming), which means we practice crop rotation, cover-cropping, tarping and mulching strategies to fertilize, surpress weeds, conserve water, and build healthy soil. We use almost no inputs besides compost and mulch. No non-organic pesticides or fertilizers are used on the farm.
 
 ### Get Involved
 
