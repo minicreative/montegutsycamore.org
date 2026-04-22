@@ -3,6 +3,8 @@ title: Home
 permalink: "/"
 layout: page
 intro: Montegut Sycamore Mutual Aid Farm is a production-oriented community garden located at the intersection of Montegut and Prieur in New Orleans' 9th Ward.
+cta_text: Click here to sign up for free vegetable delivery
+cta_link: https://forms.gle/NVcyMa2bJd3SjNpJ6
 images:
 - url: "uploads/4-26.jpg"
   caption: Spring 2026 (April)
@@ -88,7 +90,7 @@ Our vegetables are grown using the principles of ["no-till" farming](https://en.
 
 ### Get Involved
 
-**Eat vegetables.** A free or donation-based (CSA-style) distribution system is coming soon. My intention is to prioritize feeding folks who live near the farm and folks who come to volunteer. Stay tuned for updates!
+**Eat vegetables.** Our intention is to prioritize feeding folks who live near the farm and folks who come to volunteer. [Click here](https://forms.gle/NVcyMa2bJd3SjNpJ6) to sign up for free vegetables, usually delivered on Sunday afternoons.
 
 **Volunteer.** A monthly workday is typically hosted the first Saturday morning of each month. Ongoing tasks include bed preparation, planting, weeding and harvesting. Check out a list of larger upcoming projects [here](https://tomasroy.notion.site/Montegut-Sycamore-projects-log-35b38e16fefa4edbab81669d1cc5d579). If you're intersted in volunteering, please sign up for our [volunteering updates](https://forms.gle/mdxgoZiBtzEYndTW6).
 
