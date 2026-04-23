@@ -32,8 +32,6 @@ images:
   caption: Winter 2024 (February 11, '25)
 - url: "uploads/1-25.jpg"
   caption: Winter 2024 (January, '25)
-- url: "uploads/Winter2024-12-1.jpg"
-  caption: Winter 2024 (December 1)
 - url: "uploads/Fall2024-9-23.jpg"
   caption: Fall 2024 (September 23)
 - url: "uploads/Fall2024-9-13.jpg"
