@@ -6,6 +6,16 @@ intro: Montegut Sycamore Mutual Aid Farm is a production-oriented community gard
 cta_text: Click here to sign up for free vegetable delivery
 cta_link: https://forms.gle/NVcyMa2bJd3SjNpJ6
 images:
+- url: "uploads/8-26.jpg"
+  caption: Fall 2026 (August)
+- url: "uploads/7-26.jpg"
+  caption: Summer 2026 (July)
+- url: "uploads/6-26-1.jpg"
+  caption: Summer 2026 (June)
+- url: "uploads/6-26.jpg"
+  caption: Summer 2026 (June)
+- url: "uploads/5-26.jpg"
+  caption: Spring 2026 (May)
 - url: "uploads/4-26.jpg"
   caption: Spring 2026 (April)
 - url: "uploads/4-26-1.jpg"
@@ -96,7 +106,11 @@ Our vegetables are grown using the principles of ["no-till" farming](https://en.
 
 ### What's Growing / Farm Notes
 
-Spring 2026: I tried to get starts going as soon as possible after the New Year, paying attention to forecasted frosts - planted out as many trays as I could fit on Feb 6. I untarped and prepped beds at the front of 1835 Montegut on Feb 28. I planted more **kale and chard** as well as **mustard, bok choi, tomoatoes, cucumbers and tromboncino squash** shortly after that. At some point I direct-seeded **beans, radishes and carrots**. I finally planted my fig tree I bought several years ago on March 12. The mustard bolted very quickly and the bok choi performed beautifully but was destroyed by bugs beginning late March / early April. I decided to start **eggplant and peppers** early this year, starting trays in late February and getting eggplant in the ground in late March and peppers in the ground in early April. I planted **eggplant and okra** starts at the back of 1841 Montegut on April 12. I tilled, amended and cover-cropped sorghum sudangrass in the front of 1841 Montegut on April 17.
+Fall 2026: I started trays of **kale, broccoli and collards** the last week in July before leaving town for 2 weeks, and got these in the ground in the front of 1841 on August 18. Shortly after, I started additional trays of **cucumbers, tomatoes, broccoli, cabbage, collards and kale** -- tomatoes and cucumbers went in the first week of September, but got hundreds of brassicas planted in the back of 1835 on September 26. I also added mushroom compost to a few rows and direct-seeded **carrots, turnips, radishes and beans** in these rows.
+
+Summer 2026: With eggplants and peppers in the ground earlier, summer planting involved about 40 okra plants and additional eggplant, peppers and basil. I let the sorghum sudangrass get almost 6 feet tall, tried crimping, but ultimately mowed, tarped, mowed again and finally tarped for Fall readiness by late June. This summer was a bit rainier at the beginnning than previous summers but late July and August were markedly dry - and while the okra did it's thing, the eggplant and the peppers did not produce (some plants survived but didn't produce, others died completely). Basil bolted early this year. It's clear to me that summer gardening is going to need consistent, robust irrigation - perhaps drip tape.
+
+Spring 2026: I tried to get starts going as soon as possible after the New Year, paying attention to forecasted frosts - planted out as many trays as I could fit on Feb 6. I untarped and prepped beds at the front of 1835 Montegut on Feb 28. I planted more **kale and chard** as well as **mustard, bok choi, tomoatoes, cucumbers and tromboncino squash** shortly after that. At some point I direct-seeded **beans, radishes and carrots**. I finally planted my fig tree I bought several years ago on March 12. The mustard bolted very quickly and the bok choi performed beautifully but was destroyed by bugs beginning late March / early April. I decided to start **eggplant and peppers** early this year, starting trays in late February and getting eggplant in the ground in late March and peppers in the ground in early April. I planted **eggplant and okra** starts at the back of 1841 Montegut on April 12. I tilled, amended and cover-cropped sorghum sudangrass in the front of 1841 Montegut on April 17. Brought out the chicken tractor for the first time - rotated the chickens in the back half of 1835 before *some* cover-cropping with sorghum sudangass. Tomatoes were particularly unsuccessful this year, while cucumbers were prolific. The tromonbinco squash produced a handful of fruit but were ultimately impacted by the squash vine borer. My pepper plants started producing early and I had my most successful pepper crop **(shishito, lunchbox (mini bell), and banana peppers)** thus far.
 
 Winter 2025: Winter crops included **kale, chard, broccoli, cabbage, collard greens, carrots, turnips, beets, and mustard** -- seeded or planted as I had time to prep beds and get plants in. I did my first delicate vegetable planting on 1841 Montegut in late November - planted broccoli, mustard greens and chard in two rows and my cool-season cover crop mixture in the other two. I mowed and tarped the cover crop at the front of 1835 Montegut on January 9. This season I repeatedly had issues with mustard greens either being eaten by bugs or bolting too quickly.
 
